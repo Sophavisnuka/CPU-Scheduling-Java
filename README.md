@@ -22,19 +22,18 @@ The program provides a menu-driven interface for users to select a scheduling al
 
 ### Prerequisites
 - Clone this repo to get the following file
-- Run the main Project
+- Run the main Project (CPUScheduling)
 
 ### Steps
 1. **Clone the Repository** (if not already done):
    ```bash
-   git clone https://github.com/ChhunHour72/CPU-Scheduling-Simulator-CPP.git
-   cd CPU-Scheduling-Simulator-CPP
+   git clone https://github.com/Sophavisnuka/CPU-Scheduling-Java.git
+   cd CPU-Scheduling-Java
 
 2. **Compile the Program:**
-  Use g++ to compile the C++ file:
-
    ```bash
-    g++ cpu_scheduling.cpp -o cpu_scheduling
+    javac CPUScheduling.java
+    java CPUScheduling
 
 4. **Run the Program:**
 Execute the compiled program:
