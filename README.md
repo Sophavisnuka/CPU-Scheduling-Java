@@ -35,13 +35,13 @@ The program provides a menu-driven interface for users to select a scheduling al
     javac CPUScheduling.java
     java CPUScheduling
 
-4. **Run the Program:**
+3. **Run the Program:**
 Execute the compiled program:
 
    ```bash
-   ./cpu_scheduling
+   ./CPUScheduling
 
-5. **Follow the On-Screen Instructions:**
+4. **Follow the On-Screen Instructions:**
 - Select a scheduling algorithm from the menu.
 - Enter the number of processes and their details (Process ID, Arrival Time, Burst Time).
 - For Round Robin, enter the time quantum.
